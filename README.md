@@ -36,6 +36,7 @@ Exemplo de representação de um tabuleiro inicial:
 [_, a, _, _, _, _]],
 [2,1,2,1,1,1],
 [3,0,1,1,0,3])
+```
 
 ---
 
